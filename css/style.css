@@ -184,6 +184,7 @@ main:first-of-type .btn-turq {
 main:last-of-type {
 	background: #41e0d8;
 	overflow: hidden;
+	height: auto;
 }
 
 main:last-of-type .row:first-of-type,
